@@ -1,1 +1,6 @@
-# Persuasion-Experiments-CBS
+# Novel Survey Experiments on Persuasion & Marketing for Columbia Business School
+
+In Summer 2021, while working as a full-time researcher at Columbia Business School, I assisted Prof. Andrea Prat (Columbia), Prof. Andrey Simonov (Columbia), Prof. Shiri Melumad (UPenn), and Prof. Tommaso Valletti (Imperial) by designing numerous experiments on Qualtrics and analyzing the data on R. We were trying to understand how much can writers persuade readers by changing their writing style and what demographic attributes are more prone to persuasion? Although these were widely studied questions, what made our research interesting was the uniqueness of the experiment methodology.
+
+I drafted three fake news articles describing (1) a corruption scandal of a former Canadian mayor who is running for MP office, (2) a scientific misconduct incident involving a Stanford cancer vaccine researcher, and (3) a racial profiling incident by airport police in Philly. Each of the three topics contained 2-3 paragraphs supporting the accusations and 2-3 paragraphs showing possible innocence. We randomly assigned 600 Prolific users to one of these articles and asked them to summarize the article in 3-4 paragraphs. Additionally, we asked the users to rate each article's 
+
